@@ -2,7 +2,7 @@
 Project developed with C for computer science lab, UNIBA University.
 The program is made for handling with files the following things:
 Teaching, students and their booklets.
-The utent is free to use the following features:
+The User is free to use the following features:
 - Add student
 - Modify student
 - Delete student
